@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string answer = ""; // Store the answer globally
-
+        string answer = "";
         while (true)
         {
             Console.WriteLine("Please select one option:");
